@@ -492,7 +492,6 @@
 /* ******************** */
 
 .footer_container{
-    padding: 5px 0;
     font-family: 'Cinzel', serif;
     font-weight: 100;
 }
@@ -511,8 +510,9 @@
     justify-content: space-between;
 }
 
-.map img{
+.map iframe{
     width: 39dvw;
+    height: 50dvh;
 }
 .address{
     text-align: center;
